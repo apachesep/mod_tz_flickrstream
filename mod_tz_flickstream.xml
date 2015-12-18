@@ -37,5 +37,8 @@
 
         </fields>
     </config>
-
+	
+    <updateservers>
+        <server type="extension" priority="1" name="TZ Flick Stream Module"><![CDATA[http://joomla.templaza.net/extensions/updates/modules/mod_tz_flickstream_update.xml]]></server>
+    </updateservers>
 </extension>
